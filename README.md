@@ -8,8 +8,8 @@ The client-side code can be found here: https://github.com/yandevelop/Havoc-DRM-
 ## Description
 The project is intentionally kept simple with minimal overhead.
 
-It serves as an example for making API calls to the Havoc DRM API to verify ownership of a package. 
-Using a middleman in helps to keep your authentication token secure.
+It serves as an example for making API calls to the Havoc DRM API to verify ownership of a package.<br> 
+Using a middleman helps to keep your authentication token secure.
 
 ## Running
 This middleman has only been tested in a local environment.
